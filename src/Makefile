@@ -3,11 +3,11 @@
 ## License.....: MIT
 ##
 
-SHARED                  := 0
+SHARED                  := 1
 DEBUG                   := 0
-PRODUCTION              := 0
+PRODUCTION              := 1
 PRODUCTION_VERSION      := v5.1.0
-ENABLE_BRAIN            := 1
+ENABLE_BRAIN            := 0
 USE_SYSTEM_LZMA         := 0
 USE_SYSTEM_ZLIB         := 0
 USE_SYSTEM_OPENCL       := 0
